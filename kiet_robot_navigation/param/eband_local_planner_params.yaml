@@ -1,0 +1,15 @@
+# Common Parameters
+xy_goal_tolerance: 0.1
+yaw_goal_tolerance: 0.05
+rot_stopped_vel: 0.01
+trans_stopped_vel: 0.01
+
+# Trajectory Controller Parameters
+
+max_vel_lin: 0.22
+min_vel_lin: 0.03
+
+max_vel_th: 2.75
+min_vel_th: 1.37
+
+

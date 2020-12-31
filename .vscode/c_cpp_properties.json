@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/phuong/catkin_ws/devel/include/**",
+        "/home/phuong/ros_catkin_ws/devel_isolated/diff_drive_controller/include/**",
+        "/home/phuong/ros_catkin_ws/install_isolated/include/**",
+        "/home/phuong/ros_kinetic_catkin_ws/devel_isolated/stage/include/**",
+        "/home/phuong/ros_kinetic_catkin_ws/devel_isolated/orocos_kdl/include/**",
+        "/home/phuong/ros_kinetic_catkin_ws/devel_isolated/opencv3/include/**",
+        "/home/phuong/ros_kinetic_catkin_ws/devel_isolated/octomap/include/**",
+        "/home/phuong/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/phuong/catkin_ws/src/vision_opencv-melodic/cv_bridge/include/**",
+        "/home/phuong/catkin_ws/src/cv_camera/include/**",
+        "/home/phuong/catkin_ws/src/darknet_ros/darknet_ros/include/**",
+        "/home/phuong/ros_catkin_ws/src/ros_controllers/diff_drive_controller/include/**",
+        "/home/phuong/catkin_ws/src/vision_opencv-melodic/image_geometry/include/**",
+        "/home/phuong/catkin_ws/src/kiet_robot/kiet_robot_bringup/include/**",
+        "/home/phuong/catkin_ws/src/openslam_gmapping-melodic-devel/include/**",
+        "/home/phuong/catkin_ws/src/robot_state_publisher-melodic-devel/include/**",
+        "/home/phuong/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/phuong/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/phuong/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
