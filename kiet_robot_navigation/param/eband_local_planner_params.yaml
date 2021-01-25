@@ -1,3 +1,4 @@
+EBandPlannerROS:
 # Common Parameters
 xy_goal_tolerance: 0.1
 yaw_goal_tolerance: 0.05
