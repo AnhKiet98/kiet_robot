@@ -1,0 +1,9 @@
+<launch>
+  <arg name="open_rviz" default="true"/>
+
+  <!-- rviz -->
+  <group if="$(arg open_rviz)"> 
+    <node pkg="rviz" type="rviz" name="rviz" required="true"
+          args="-d $(find kiet_robot_navigation)/rviz/kiet_robot_navigation.rviz"/>
+  </group>
+</launch>
